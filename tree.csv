@@ -1,0 +1,109 @@
+dataset,topic name,parent,percent,sentiment
+news,medication,news,17,-0.47
+news,anxiety,news,30,-0.96
+news,forgetfulness,news,6,0
+news,sleep problems,news,4,-1
+news,smoking,news,3,-0.29
+news,sleep deprivation,anxiety,3,-1.62
+news,school,anxiety,1,-1
+news,internet,anxiety,1,-1.75
+news,exercise,anxiety,1,-0.69
+news,medication,anxiety,1,-0.33
+news,weight gain,medication,2,-0.39
+news,anxiety,medication,1,-0.71
+news,drug addiction,medication,1,-1.53
+news,dealing adhd drugs,medication,1,0.19
+news,exercise,medication,1,0.18
+news,smoking,forgetfulness,3,-0.05
+news,sleep problems,forgetfulness,2,-1.28
+news,fatty acids,forgetfulness,2,0
+news,sleepiness(meds),forgetfulness,2,-0.53
+news,alcohol during pregnancy,forgetfulness,2,-0.52
+news,sleep deprivation,sleep problems,11,-1.29
+news,anxiety,sleep problems,4,-1.23
+news,forgetfulness,sleep problems,2,0.74
+news,sleepiness(meds),sleep problems,2,-0.53
+news,moodiness(meds),sleep problems,2,-1.04
+news,forgetfulness,smoking,6,-0.05
+news,sociodemographic,smoking,3,0
+news,moodiness(meds),smoking,3,0.49
+news,alcohol and adhd,smoking,3,-0.75
+abstracts,anxiety,abstracts,16,-0.93
+abstracts,twitching/teeth grinding,abstracts,11,-0.2
+abstracts,forgetfulness,abstracts,10,0.25
+abstracts,medication,abstracts,8,-0.37
+abstracts,environmental factors,abstracts,8,-0.2
+abstracts,environmental factors,anxiety,4,-0.65
+abstracts,maternal iron deficiency,anxiety,3,-0.82
+abstracts,school,anxiety,2,-2.24
+abstracts,sociodemographic,anxiety,2,0
+abstracts,internet addiction,anxiety,2,-1.01
+abstracts,tics(meds),twitching/teeth grinding,6,-1.04
+abstracts,anxiety,twitching/teeth grinding,4,-2.58
+abstracts,tourette,twitching/teeth grinding,2,-1.8
+abstracts,adverse events,medication,13,-0.63
+abstracts,sleep deprivation,medication,2,-0.4
+abstracts,sleep problems,medication,2,-1
+abstracts,sociodemographic,medication,2,0.49
+abstracts,genetic factors,environmental factors,21,-0.19
+abstracts,anxiety,environmental factors,8,-0.37
+reddit,forgetfulness,reddit,34,-0.03
+reddit,anxiety,reddit,16,-0.73
+reddit,being late,reddit,12,-0.29
+reddit,journal/diary,reddit,11,0.087
+reddit,distractions,reddit,6,-0.15
+reddit,anxiety,forgetfulness,3,-0.79
+reddit,being late,forgetfulness,3,-0.14
+reddit,journal/diary,forgetfulness,3,0.14
+reddit,distractions,forgetfulness,2,-0.32
+reddit,procrastination,forgetfulness,1,-0.83
+reddit,forgetfulness,anxiety,6,-0.23
+reddit,being late,anxiety,3,-0.15
+reddit,procrastination,anxiety,3,-1.07
+reddit,yoga,anxiety,2,0.11
+reddit,sleep problems,anxiety,1,-0.61
+reddit,forgetfulness,being late,7,0
+reddit,anxiety,being late,4,-0.63
+reddit,journal/diary,being late,2,0.38
+reddit,distractions,being late,1,-0.31
+reddit,procrastination,being late,1,-0.49
+reddit,forgetfulness,journal/diary,8,-0.02
+reddit,being late,journal/diary,2,-0.38
+reddit,procrastination,journal/diary,2,-0.62
+reddit,anxiety,journal/diary,2,-0.38
+reddit,hyperfocus,journal/diary,1,0.14
+reddit,forgetfulness,distractions,8,-0.02
+reddit,being late,distractions,3,-0.35
+reddit,hyperfocus,distractions,2,-0.02
+reddit,journal/diary,distractions,2,0.32
+reddit,anxiety,distractions,1,-0.48
+blog,forgetfulness,blog,85,-0.05
+blog,anxiety,blog,6,-0.7
+blog,journal/diary,blog,3,0.03
+blog,distractions,blog,3,-0.44
+blog,medication,blog,2,-0.21
+blog,anxiety,forgetfulness,6,-0.7
+blog,journal/diary,forgetfulness,3,0.03
+blog,distractions,forgetfulness,3,-0.44
+blog,medication,forgetfulness,2,-0.21
+blog,being late,forgetfulness,2,-0.54
+blog,medication,anxiety,6,-0.3
+blog,forgetfulness,anxiety,6,-0.12
+blog,sleep deprivation,anxiety,3,-0.81
+blog,procrastination,anxiety,1,-0.93
+blog,journal/diary,anxiety,1,-0.08
+blog,forgetfulness,journal/diary,11,-0.02
+blog,anxiety,journal/diary,5,-0.79
+blog,distractions,journal/diary,3,-0.34
+blog,being late,journal/diary,2,-0.3
+blog,procrastination,journal/diary,2,-0.86
+blog,forgetfulness,distractions,9,-0.23
+blog,anxiety,distractions,4,-0.62
+blog,procrastination,distractions,3,-0.84
+blog,journal/diary,distractions,3,-0.04
+blog,hyperfocus,distractions,3,-0.14
+blog,anxiety,medication,14,-0.78
+blog,forgetfulness,medication,5,-0.15
+blog,wrong dosage,medication,2,-0.62
+blog,twitching/teeth grinding,medication,2,-0.54
+blog,sleep deprivation,medication,2,-1.17
